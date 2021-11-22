@@ -1,0 +1,13 @@
+html,
+body {
+  padding: 10px;
+  background-color: #abbdbc;
+}
+.form-check-input:checked {
+  background-color: #4ce0d9 !important;
+  border-color: #4ce0d9 !important;
+}
+
+.form-check .form-check-input {
+  clear: both !important;
+}
